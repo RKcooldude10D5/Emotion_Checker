@@ -1,0 +1,19 @@
+body
+{
+  color: black;
+  background: linear-gradient(lightskyblue 0%, lavender 100%);
+  font-family: 'Lobster', cursive;
+}
+.emoji
+{
+  font-size:48px;
+}
+#btn{
+  margin-bottom: 25px;
+}
+.heading{
+  font-size: 25px;
+}
+#result{
+  margin-right: 25px;
+}
